@@ -1,11 +1,11 @@
 # Virtual Volon
-Virtual Colon: Spatiotemporal modelling of metabolic interactions in a computational colonic environment
-
+Spatiotemporal modelling of metabolic interactions in a computational colonic environment
+------------------------------------------------------------------------------------------------
 This repository contains the source and input files needed to run the Virtual Colon. 
 
-The Mono-colonalisation.R file simulates mono-colonisation experiments with context-specific colonic cell.
-
-The SIHUMIx.R file context-specific colonic cells with the SIHUMIx minimal model microbiome.
+- The Mono-colonalisation.R file simulates mono-colonisation experiments with context-specific colonic cell.
+  
+- The SIHUMIx.R file context-specific colonic cells with the SIHUMIx minimal model microbiome.
 
 It requires the following software / R packages:
 1. R
