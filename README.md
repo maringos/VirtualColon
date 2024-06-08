@@ -20,7 +20,9 @@ This research was supported in part through high-performance computing resources
 
 1. Eugen Bauer, Johannes Zimmermann, et al..,  BacArena: Individual-based metabolic modeling of heterogeneous microbes in complex communities, doi:10.1371/journal.pcbi.1005544
 2. R Core Team. R: A Language and Environment for Statistical Computing [Internet]. Vienna, Austria: R Foundation for Statistical Computing; Available from: https://www.R-project.org/
-3.	Gelius-Dietrich G, Desouki AA, Fritzemeier CJ, Lercher MJ. sybil – Efficient constraint-based modelling in R. BMC Syst Biol. 2013 Dec;7(1):125.
+3.	Gelius-Dietrich G, Desouki AA, et al.., sybil – Efficient constraint-based modelling in R. BMC Syst Biol. 2013 Dec;7(1):125.
+4.	Becker, N., Kunath, J., et al.., Human intestinal microbiota: Characterization of a simplified and stable gnotobiotic rat model. Gut Microbes 2, 25–33 (2011).
+
 
 ## Citation
 Georgios Marinos*, Johannes Zimmermann*, Jan Taubenheim, and Christoph Kaleta, **Virtual Colon: Spatiotemporal modelling of metabolic interactions in a computational colonic environment**, 2024, in preparation
