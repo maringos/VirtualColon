@@ -1,4 +1,4 @@
-# Virtual Volon
+# Virtual Colon
 Spatiotemporal modelling of metabolic interactions in a computational colonic environment
 ------------------------------------------------------------------------------------------------
 This repository contains the source and input files needed to run the Virtual Colon. 
