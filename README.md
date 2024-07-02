@@ -15,6 +15,11 @@ It requires the following software / R packages:
 
 The gplkAPI would theoritically suffice instead of cplexAPI. However, it is not tested and may lead to significant increase of computational time.
 
+# Example of usage
+You can try our code with the example datasets. To this end, you have to choose the required models from the file `simulations_sequence.RDS` by selecting the respective row.
+
+Please use the command `Rscript SIHUMIx.R $nodes` in the command line, where $nodes is the number of the selected row in `simulations_sequence.RDS`.
+
 ## References and acknowlegments
 This research was supported in part through high-performance computing resources available at the Kiel University Computing Centre.
 
