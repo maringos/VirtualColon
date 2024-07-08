@@ -18,16 +18,16 @@ The gplkAPI would theoritically suffice instead of cplexAPI. However, it is not 
 # Example of usage
 You can try our code with the example datasets. To this end, you have to choose the required models from the file `simulations_sequence.RDS` by selecting the respective row.
 
-Please use the command `Rscript SIHUMIx.R $nodes` in the command line, where $nodes is the number of the selected row in `simulations_sequence.RDS`.
+For instance, please use the command `Rscript SIHUMIx.R $nodes` in the command line, where $nodes is the number of the selected row in `simulations_sequence.RDS`.
 
 ## References and acknowlegments
 This research was supported in part through high-performance computing resources available at the Kiel University Computing Centre. See our manuscript for a full list of other work cited.
 
-1. Eugen Bauer, Johannes Zimmermann, et al..,  BacArena: Individual-based metabolic modeling of heterogeneous microbes in complex communities, doi:10.1371/journal.pcbi.1005544
+1. Eugen Bauer, Johannes Zimmermann, et al.,  BacArena: Individual-based metabolic modeling of heterogeneous microbes in complex communities, doi:10.1371/journal.pcbi.1005544
 2. R Core Team. R: A Language and Environment for Statistical Computing [Internet]. Vienna, Austria: R Foundation for Statistical Computing; Available from: https://www.R-project.org/
-3.	Gelius-Dietrich G, Desouki AA, et al.., sybil – Efficient constraint-based modelling in R. BMC Syst Biol. 2013 Dec;7(1):125.
-4.	Becker N., Kunath J., et al.., Human intestinal microbiota: Characterization of a simplified and stable gnotobiotic rat model. Gut Microbes 2, 25–33 (2011).
-5.	Geva-Zatorsky N., Sefik E., et al..,Mining the Human Gut Microbiota for Immunomodulatory Organism,  Cell. 2017 Feb 23;168(5):928-943.e11
+3.	Gelius-Dietrich G, Desouki AA, et al., sybil – Efficient constraint-based modelling in R. BMC Syst Biol. 2013 Dec;7(1):125.
+4.	Becker N., Kunath J., et al., Human intestinal microbiota: Characterization of a simplified and stable gnotobiotic rat model. Gut Microbes 2, 25–33 (2011).
+5.	Geva-Zatorsky N., Sefik E., et al.,Mining the Human Gut Microbiota for Immunomodulatory Organism,  Cell. 2017 Feb 23;168(5):928-943.e11
 
 
 ## Citation
