@@ -14,23 +14,5 @@ authors:
   given-names: "Christoph"
   orcid: "https://orcid.org/0000-0001-8004-9514"
 title: "Virtual Colon: Spatiotemporal modelling of metabolic interactions in a computational colonic environment"
-doi: 10.1101/2024.06.11.598488
+doi: 10.1101/2024.06.11.598488 
 url: "https://github.com/maringos/VirtualColon/"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Marinos"
-    given-names: "Georgios"
-    orcid: "https://orcid.org/0000-0002-6443-7696"
-  - family-names: "Zimmermann"
-    given-names: "Johannes"
-    orcid: "https://orcid.org/0000-0002-5041-1954"
-  - family-names: "Taubenheim"
-    given-names: "Jan"
-    orcid: "https://orcid.org/0000-0001-7283-1768"
-  - family-names: "Kaleta"
-    given-names: "Christoph"
-    orcid: "https://orcid.org/0000-0001-8004-9514"
-  doi: "10.1101/2024.06.11.598488"
-  journal: "bioRxiv"
-  year: 2024
