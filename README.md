@@ -31,7 +31,7 @@ This research was supported in part through high-performance computing resources
 
 
 ## Citation
-Georgios Marinos*, Johannes Zimmermann*, Jan Taubenheim, and Christoph Kaleta, **Virtual Colon: Spatiotemporal modelling of metabolic interactions in a computational colonic environment**, 2024, mSystems 0:e01391-25, www.doi.org/10.1128/msystems.01391-25 
+Georgios Marinos*, Johannes Zimmermann*, Jan Taubenheim, and Christoph Kaleta, **Virtual Colon: spatiotemporal modeling of metabolic interactions in a computational colonic environment**, 2024, mSystems 0:e01391-25, www.doi.org/10.1128/msystems.01391-25 
 *shared first authorship with an interchangeable order
 
 GNU General Public License version 3.0 (GPLv3) is applied to all copyrightable parts of this software. 
